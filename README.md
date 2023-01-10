@@ -1,1 +1,1 @@
-# Laravelinquiry
+# Laraveltemplate
